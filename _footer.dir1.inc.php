@@ -12,7 +12,7 @@
 		<!-- end: #footer -->
 	</div>
 </div>
-<div id="copyright">&copy; 2013 athletics SPORT GmbH</div>
+<div id="copyright">&copy; 2014 athletics SPORT GmbH</div>
 <!-- Google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

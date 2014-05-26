@@ -67,7 +67,7 @@ $mA = $menu['active'];
 					  <li><a target="_blank" href="/Wettkampf/slv-13-Mehrkampf-Senioren.pdf">SDM Senioren MK</a></li>
 				      <li><a target="_blank" href="http://blv-sport.de/service/msonline/files/20135291-e.htm">SDM Gehen</a></li>
 				  </ul></li>
-				  <li<? if($m == 'verband') echo $mA; ?>><a href="index.php">Verband</a>
+				   <li<? if($m == 'verband') echo $mA; ?>><a href="verband.php">Verband</a>
 				    <ul>
 				      <li><a href="praesidium.php">Präsidium</a></li>
 				      <li><a href="verbaende.php">Mitgliedsverbände&nbsp; &raquo;</a>
@@ -95,11 +95,7 @@ $mA = $menu['active'];
 			<div id="col1">
 			  <div id="col1_content" class="clearfix">
 
-<br />
-<h4>Sponsoren</h4>
 
-<br />
-<br />
 <!--
 <iframe name="sponsoren" width="190" height="400" frameborder="0" src="sponsoren/iframe.html" scrolling="no"></iframe>
 -->

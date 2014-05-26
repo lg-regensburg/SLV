@@ -9,9 +9,9 @@ $mA = $menu['active'];
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title><?php if (!empty($title)) echo $title." - "; ?>Süddeutsche Meisterschaften 2013</title>
+<title><?php if (!empty($title)) echo $title." - "; ?>Süddeutscher Leichtathletik-Verband</title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Süddeutsche Meisterschaften 2013, Süddeutscher Leichtathletik Verband, SLV, Regensburg, Leichtathletik, Top-Meeting, Leichtathletik-Elite, Sprint, Hindernis, Hürden" />
+<meta name="keywords" content="Süddeutscher Leichtathletik-Verband" />
 <?php if (!empty($description)) echo "<meta name=\"description\" content=\"$description\" />"; ?>
 <?php /*if ($menu['current']=="live-ticker" && !empty($refresh)) echo $refresh."\n"; */?>
 <meta name="language" content="de" />

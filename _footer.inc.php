@@ -8,11 +8,11 @@
 		</div>
 		<!-- end: #main -->
 		<!-- begin: #footer -->
-		<div id="footer"><a href="index.php">Home</a> | <a href="">Veranstaltungen</a> | <a href="">Ergebnisse</a> | <a href="">Verband</a> | <a href="kontakt.php">Kontakt</a> | <a href="impressum.php">Impressum</a></div>
+		<div id="footer"><a href="index.php">Home</a> | <a href="/ausschreibungen.php">Veranstaltungen</a> | <a href="/ergebnisse.php">Ergebnisse</a> | <a href="/verband.php">Verband</a> | <a href="kontakt.php">Kontakt</a> | <a href="impressum.php">Impressum</a></div>
 		<!-- end: #footer -->
 	</div>
 </div>
-<div id="copyright">&copy; 2013 Süddeutscher Leichtathletik Verband</div>
+<div id="copyright">&copy; 2014 Süddeutscher Leichtathletik Verband</div>
 <!-- Google Analytics
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
