@@ -50,21 +50,21 @@ $mA = $menu['active'];
 				  <li<? if($m == 'home') echo $mA; ?>><a href="index.php">Home</a></li>
 				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="ausschreibungen.php">Veranstaltungen</a>
 				    <ul>
-				      <li><a target="_blank" href="http://www.lg-telis-finanz.de/2013_sueddeutsche/download/sueddeutsche_2013-ergebnisse.html">SDM Aktive / U18 </a></li>
-				      <li><a target="_blank" href="http://www.blv-online.de/fileadmin/files/pool/wettkampf/Ergebnisse/2013/2013-07-27_SLV_U23_M15_Forst_ERG.htm">SDM U23 / U16</a></li>
+				      <li><a target="_blank" href="http://lg-telis-finanz.de/2014_sueddeutsche/">SDM Aktive / U18 </a></li>
+				      <li><a target="_blank" href="http://blv-sport.de/service/msonline/files/402732415825-a.pdf">SDM U23 / U16</a></li>
 				      <li><a target="_blank" href="http://www.blv-online.de/index.php?id=176&tx_ttnews[backPid]=550&tx_ttnews[tt_news]=9199&cHash=2f559a3c566ac291c8b8cbcda347625">SDHM Aktive / U 18</a></li>
-				      <li><a target="_blank" href="http://blv-sport.de/service/msonline/files/20135291-e.htm">SDM Gehen</a></li>
-					  <li><a target="_blank" href="index.htm">SDM Senioren MK</a></li>
-				      <li><a target="_blank" href="http://sdlv.lg-telis-finanz.de/download/Allgemeine_Ausschreibungsbestimmungen_%C3%84nderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
-				      <li><a target="_blank" href="http://sdlv.lg-telis-finanz.de/download/Normen_SDM.pdf">Normen</a></li>
+				      <li><a target="_blank" href="/download/Ausschreibung%20Bayer%20und%20S%C3%BCddeutsche%2020140521%2013%20Uhr.pdf">SDM Gehen</a></li>
+					  <li><a target="_blank" href="http://www.lvrheinhessen.de/">SDM Senioren MK</a></li>
+				      <li><a target="_blank" href="/download/Allgemeine%20Ausschreibungsbestimmungen%20%C3%84nderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
+				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
 					</ul>
 				  </li>
 				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a>
 				  <ul>
 				      <li><a target="_blank" href="http://www.lg-telis-finanz.de/2013_sueddeutsche/download/sueddeutsche_2013-ergebnisse.html">SDM Aktive / U 18</a></li>
 					  <li><a target="_blank" href="http://live3.cktu.de/index.php?ver=130727DEFOB">SDM U23 / U16</a></li>
-					  <li><a target="_blank" href="http://hlv.de/ERGEBNISSE/2013/130202.htm">SDHM Aktive / U 18</a></li>
-					  <li><a target="_blank" href="http://slv-leichtathletik.de/Wettkampf/slv-13-Mehrkampf-Senioren.pdf">SDM Senioren MK</a></li>
+					  <li><a target="_blank" href="http://ladv.de/ergebnis/datei/14826">SDHM Aktive / U 18</a></li>
+					  <li><a target="_blank" href="/Wettkampf/slv-13-Mehrkampf-Senioren.pdf">SDM Senioren MK</a></li>
 				      <li><a target="_blank" href="http://blv-sport.de/service/msonline/files/20135291-e.htm">SDM Gehen</a></li>
 				  </ul></li>
 				  <li<? if($m == 'verband') echo $mA; ?>><a href="index.php">Verband</a>
@@ -80,9 +80,9 @@ $mA = $menu['active'];
 						  <li><a href="http://www.lvrheinhessen.de">Rheinhessen</a></li>
 						  <li><a href="http://www.slb-saarland.com">Saarland</a></li>
 						</ul></li>
-				      <li><a target="_blank" href="http://sdlv.lg-telis-finanz.de/download/Allgemeine_Ausschreibungsbestimmungen_%C3%84nderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
-				      <li><a target="_blank" href="http://sdlv.lg-telis-finanz.de/download/Normen_SDM.pdf">Normen</a></li>
-				      <li><a href="http://slv-leichtathletik.de/Ausschreibungen/Rotationsplan-2011-2018.pdf">Rotationsplan</a></li>
+				      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen_%C3%84nderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
+				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
+				      <li><a href="/download/Rotationsplan-2011-2018.pdf">Rotationsplan</a></li>
 				    </ul>
 				  </li>				  
 				</ul>
