@@ -51,7 +51,7 @@ $mA = $menu['active'];
 				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="ausschreibungen.php">Veranstaltungen</a>
 				    <ul>
 				      <li><a target="_blank" href="http://lg-telis-finanz.de/2014_sueddeutsche/">SDM Aktive / U18 </a></li>
-				      <li><a target="_blank" href="http://blv-sport.de/service/msonline/files/402732415825-a.pdf">SDM U23 / U16</a></li>
+				      <li><a target="_blank" href="http://www.djk-friedberg.de/sueddeutsche_2014/index.php?page=15 ">SDM U23 / U16</a></li>
 				      <li><a target="_blank" href="http://www.blv-online.de/index.php?id=176&tx_ttnews[backPid]=550&tx_ttnews[tt_news]=9199&cHash=2f559a3c566ac291c8b8cbcda347625">SDHM Aktive / U 18</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung%20Bayer%20und%20S%C3%BCddeutsche%2020140521%2013%20Uhr.pdf">SDM Gehen</a></li>
 					  <li><a target="_blank" href="http://www.lvrheinhessen.de/">SDM Senioren MK</a></li>
@@ -61,7 +61,7 @@ $mA = $menu['active'];
 				  </li>
 				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a>
 				  <ul>
-				      <li><a target="_blank" href="http://www.lg-telis-finanz.de/2013_sueddeutsche/download/sueddeutsche_2013-ergebnisse.html">SDM Aktive / U 18</a></li>
+				      <li><a target="_blank" href="http://lg-telis-finanz.de/2014_sueddeutsche/ergebnisse.php">SDM Aktive / U 18</a></li>
 					  <li><a target="_blank" href="http://live3.cktu.de/index.php?ver=130727DEFOB">SDM U23 / U16</a></li>
 					  <li><a target="_blank" href="http://ladv.de/ergebnis/datei/14826">SDHM Aktive / U 18</a></li>
 					  <li><a target="_blank" href="/Wettkampf/slv-13-Mehrkampf-Senioren.pdf">SDM Senioren MK</a></li>
