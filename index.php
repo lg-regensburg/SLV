@@ -46,5 +46,6 @@ Wichtigkeit sind.</p>
 </p>
 <p></p>
 <p></p>
+<p style="font-size:0.8em">Foto: Orga-Komittee, Zürich</p>
 <br />
 <?php require("_footer.inc.php"); ?>
