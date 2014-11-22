@@ -62,10 +62,10 @@ $mA = $menu['active'];
 				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a>
 				  <ul>
 				      <li><a target="_blank" href="http://lg-telis-finanz.de/2014_sueddeutsche/ergebnisse.php">SDM Aktive / U 18</a></li>
-					  <li><a target="_blank" href="http://live3.cktu.de/index.php?ver=130727DEFOB">SDM U23 / U16</a></li>
+					  <li><a target="_blank" href="http://blv-sport.de/service/msonline/files/402732415825-e.htm">SDM U23 / U16</a></li>
 					  <li><a target="_blank" href="http://ladv.de/ergebnis/datei/14826">SDHM Aktive / U 18</a></li>
-					  <li><a target="_blank" href="/Wettkampf/slv-13-Mehrkampf-Senioren.pdf">SDM Senioren MK</a></li>
-				      <li><a target="_blank" href="http://blv-sport.de/service/msonline/files/20135291-e.htm">SDM Gehen</a></li>
+					  <li><a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2014/Ergebnisse-2014/140920-SLV%20SenMk%20Erg%20.htm">SDM Senioren MK</a></li>
+				      <li><a target="_blank" href="http://www.blv-sport.de/fileadmin/wettkampfsport/2014/erg/0712_blv-strassengehen.pdf">SDM Gehen</a></li>
 				  </ul></li>
 				   <li<? if($m == 'verband') echo $mA; ?>><a href="verband.php">Verband</a>
 				    <ul>
