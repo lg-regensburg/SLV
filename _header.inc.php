@@ -50,6 +50,7 @@ $mA = $menu['active'];
 				  <li<? if($m == 'home') echo $mA; ?>><a href="index.php">Home</a></li>
 				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="ausschreibungen.php">Veranstaltungen</a>
 				    <ul>
+				      <li><a href="termine.php">Termine</a></li>
 				      <li><a target="_blank" href="http://lg-telis-finanz.de/2014_sueddeutsche/">SDM Aktive / U18 </a></li>
 				      <li><a target="_blank" href="http://www.djk-friedberg.de/sueddeutsche_2014/index.php?page=15 ">SDM U23 / U16</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung_SDHM_U18.pdf">SDHM Aktive / U 18</a></li>
