@@ -20,7 +20,7 @@
 		</ul></li>
 	  <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen_%C3%84nderung.pdf">Ausschreibungsbestimmungen</a></li>
 	  <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
-	  <li><a href="/download/Rotationsplan-2011-2018.pdf">Rotationsplan</a></li>
+	  <li><a href="/download/Rotationsplan_2015_2022.pdf">Rotationsplan</a></li>
 	</ul>
 
 
