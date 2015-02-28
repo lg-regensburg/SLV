@@ -6,6 +6,16 @@
 <!-- <h2>Überschrift</h2>
 <br /> -->
 
+<p><strong>Die Veranstaltungsseite der Süddeutschen Meisterschaft 2015 ist online</strong></p>
+
+<p>Die Veranstaltungsseite der Süddeutschen Meisterschaften der Aktiven und U18 ist unter folgendem Link verfügbar: <a href="http://sdm2015.de/">Veranstaltungsseite</a></p>
+
+
+<p><strong>Berichte der Süddeutschen Hallenmeisterschaften 2015 in Karlsruhe</strong></p>
+
+<p><a href="http://www.leichtathletik.de/news/news/detail/yasmin-kwadwo-knackt-die-hallen-em-norm-in-karlsruhe/">Tag 1</a>, <a href="http://www.leichtathletik.de/news/news/detail/tamara-schassberger-kratzt-an-u18-bestleistung/">Tag 2</a></p>
+
+
 <p><strong>Besonderes Angebot für Titelkämpfe in Nürnberg: Familien-Special für DM im Grundig-Stadion</strong></p>
 
 <p>Für die Deutschen Leichtathletik-Meisterschaften in Nürnberg (24.–26. Juli) hat der Deutsche Leichtathletik-Verband (DLV) im Februar ein ganz besonderes Angebot für Familien vorbereitet: Ausschließlich im Zeitraum 1. bis einschließlich 28. Februar zahlen zwei Erwachsene und ein Kind in der Kategorie I (Gegentribüne) statt 64,50 Euro nur 39 Euro für einen Veranstaltungstag. Für jedes weitere Kind werden 5 Euro berechnet.</p>

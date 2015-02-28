@@ -51,7 +51,7 @@ $mA = $menu['active'];
 				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="ausschreibungen.php">Veranstaltungen</a>
 				    <ul>
 				      <li><a href="termine.php">Termine</a></li>
-				      <li><a target="_blank" href="http://lg-telis-finanz.de/2014_sueddeutsche/">SDM Aktive / U18 </a></li>
+				      <li><a target="_blank" href="/download/Ausschreibung_SDM_Aktive_U18_2015.pdf">SDM Aktive / U18 </a></li>
 				      <li><a target="_blank" href="http://www.djk-friedberg.de/sueddeutsche_2014/index.php?page=15 ">SDM U23 / U16</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung_SDHM_U18.pdf">SDHM Aktive / U 18</a></li>
 				      <li><a target="_blank" href="/download/Meldeliste-Süddt.Halle-Akt-U18+Rahmenwettb.pdf">SDHM Aktive / U 18 Teilnehmer</a></li>
@@ -82,7 +82,7 @@ $mA = $menu['active'];
 						  <li><a href="http://www.lvrheinhessen.de">Rheinhessen</a></li>
 						  <li><a href="http://www.slb-saarland.com">Saarland</a></li>
 						</ul></li>
-				      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen_%C3%84nderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
+				      <li><a target="_blank" href="/download/Allgemeine%20Ausschreibungsbestimmungen%20%C3%84nderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
 				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
 				      <li><a href="/download/Rotationsplan_2015_2022.pdf">Rotationsplan</a></li>
 				    </ul>
