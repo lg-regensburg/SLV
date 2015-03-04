@@ -6,6 +6,11 @@
 <!-- <h2>Überschrift</h2>
 <br /> -->
 
+<p><strong>Familien-Special für DM Nürnberg verlängert</strong></p>
+
+<p>Regensburg, 4. März 2015 (leichtathletik.de) - Die Nachfrage ist groß: Im Vorverkauf wurden für die Deutschen Leichtathletik-Meisterschaften in Nürnberg (24. bis 26. Juli) bereits 18.000 Tickets abgesetzt. Daher verlängert der Deutsche Leichtathletik-Verband (DLV) sein besonderes Angebot für Familien, das am 28. Februar ausgelaufen war, noch bis zum 10. April. Aufgrund der großen Nachfrage hat der DLV das "Familien-Special" für die Deutschen Meisterschaften in Nürnberg noch einmal verlängert. Bis zum 10. April zahlen zwei Erwachsene und ein Kind in der Kategorie I (Gegentribüne) statt 64,50 Euro nur 39 Euro für einen Veranstaltungstag. Für  jedes weitere Kind werden 5 Euro berechnet. <a href="http://www.leichtathletik.de/news/news/detail/familien-special-fuer-dm-nuernberg-verlaengert/">Hier</a> geht's zum Vorverkauf auf leichtathletik.de ...</p>
+
+
 <p><strong>Die Veranstaltungsseite der Süddeutschen Meisterschaft 2015 ist online</strong></p>
 
 <p>Die Veranstaltungsseite der Süddeutschen Meisterschaften der Aktiven und U18 ist unter folgendem Link verfügbar: <a href="http://sdm2015.de/">Veranstaltungsseite</a></p>
