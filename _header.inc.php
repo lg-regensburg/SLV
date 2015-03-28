@@ -57,7 +57,7 @@ $mA = $menu['active'];
 				      <li><a target="_blank" href="/download/Meldeliste-Süddt.Halle-Akt-U18+Rahmenwettb.pdf">SDHM Aktive / U 18 Teilnehmer</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung%20Bayer%20und%20S%C3%BCddeutsche%2020140521%2013%20Uhr.pdf">SDM Gehen</a></li>
 					  <li><a target="_blank" href="http://www.lvrheinhessen.de/">SDM Senioren MK</a></li>
-				      <li><a target="_blank" href="/download/Allgemeine%20Ausschreibungsbestimmungen%20%C3%84nderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
+				      <li><a target="_blank" href="/download/Allgemeine%20Ausschreibungsbestimmungen%20Aenderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
 				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
 					</ul>
 				  </li>
