@@ -52,7 +52,7 @@ $mA = $menu['active'];
 				    <ul>
 				      <li><a href="termine.php">Termine</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung_SDM_Aktive_U18_2015.pdf">SDM Aktive / U18 </a></li>
-				      <li><a target="_blank" href="http://www.djk-friedberg.de/sueddeutsche_2014/index.php?page=15 ">SDM U23 / U16</a></li>
+				      <li><a target="_blank" href="/download/Ausschreibung_SDM_2015.pdf">SDM U23 / U16</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung_SDHM_U18.pdf">SDHM Aktive / U 18</a></li>
 				      <li><a target="_blank" href="/download/Meldeliste-Süddt.Halle-Akt-U18+Rahmenwettb.pdf">SDHM Aktive / U 18 Teilnehmer</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung%20Bayer%20und%20S%C3%BCddeutsche%2020140521%2013%20Uhr.pdf">SDM Gehen</a></li>
@@ -68,6 +68,7 @@ $mA = $menu['active'];
 					  <li><a target="_blank" href="http://lalive.de/150207DESHT">SDHM Aktive / U 18</a></li>
 					  <li><a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2014/Ergebnisse-2014/140920-SLV%20SenMk%20Erg%20.htm">SDM Senioren MK</a></li>
 				      <li><a target="_blank" href="http://www.blv-sport.de/fileadmin/wettkampfsport/2014/erg/0712_blv-strassengehen.pdf">SDM Gehen</a></li>
+					<li><a href="ergebnisse.php">Ergebnisse der letzten Jahre</a>
 				  </ul></li>
 				   <li<? if($m == 'verband') echo $mA; ?>><a href="verband.php">Verband</a>
 				    <ul>
