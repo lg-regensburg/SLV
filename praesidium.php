@@ -29,7 +29,7 @@
 		<p>
 		Mobil: 0175-4122728</p>
 		<p>
-		Mail: jochen.schweitzer(at)lg-regensburg.de </td>
+		Mail: schweitzer (at) blv-sport.de  </td>
 	</tr>
 	<tr>
 		<td valign="top" style="width: 318px; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">

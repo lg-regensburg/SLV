@@ -15,8 +15,9 @@
 <br />
 
 <h2>Ergebnisse der vergangenen Jahre</h2>
-<p>
 <br />
+
+<p><strong>SDM Aktive/ U18</strong></p>
 
 <p>
 <a href="http://lg-telis-finanz.de/2014_sueddeutsche/ergebnisse.php">2014 in Regensburg</a><br />
