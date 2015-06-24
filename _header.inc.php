@@ -51,7 +51,7 @@ $mA = $menu['active'];
 				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="ausschreibungen.php">Veranstaltungen</a>
 				    <ul>
 				      <li><a href="termine.php">Termine</a></li>
-				      <li><a target="_blank" href="/download/Ausschreibung_SDM_Aktive_U18_2015.pdf">SDM Aktive / U18 </a></li>
+				      <li><a target="_blank" href="http://www.sdm2015.de/ ">SDM Aktive / U18 </a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung_SDM_2015.pdf">SDM U23 / U16</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung_SDHM_U18.pdf">SDHM Aktive / U 18</a></li>
 				      <li><a target="_blank" href="/download/Meldeliste-Süddt.Halle-Akt-U18+Rahmenwettb.pdf">SDHM Aktive / U 18 Teilnehmer</a></li>

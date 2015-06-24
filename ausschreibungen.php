@@ -5,7 +5,7 @@
 
 <h2>Ausschreibungen</h2>
 <br />
-<p><a target="_blank" href="/download/Ausschreibung_SDM_Aktive_U18_2015.pdf">SDM Aktive / U18 </a></p>
+<p><a target="_blank" href="http://www.sdm2015.de/ ">SDM Aktive / U18 </a></p>
 <p><a target="_blank" href="/download/Ausschreibung_SDM_2015.pdf">SDM U23 / U16</a></p>
 <p><a target="_blank" href="/download/Ausschreibung_SDHM_U18.pdf">SDHM Aktive / U 18</a></p>
 <p><a target="_blank" href="/download/Ausschreibung%20Bayer%20und%20S%C3%BCddeutsche%2020140521%2013%20Uhr.pdf"">SDM Gehen</a></p>
