@@ -64,7 +64,7 @@ $mA = $menu['active'];
 				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a>
 				  <ul>
 				      <li><a target="_blank" href="http://lg-telis-finanz.de/2014_sueddeutsche/ergebnisse.php">SDM Aktive / U 18</a></li>
-					  <li><a target="_blank" href="http://blv-sport.de/service/msonline/files/402732415825-e.htm">SDM U23 / U16</a></li>
+					  <li><a target="_blank" href="http://slvu23.hlv-region-nord.de/day1.htm">SDM U23 / U16</a></li>
 					  <li><a target="_blank" href="http://lalive.de/150207DESHT">SDHM Aktive / U 18</a></li>
 					  <li><a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2014/Ergebnisse-2014/140920-SLV%20SenMk%20Erg%20.htm">SDM Senioren MK</a></li>
 				      <li><a target="_blank" href="http://www.blv-sport.de/fileadmin/wettkampfsport/2014/erg/0712_blv-strassengehen.pdf">SDM Gehen</a></li>
@@ -87,7 +87,7 @@ $mA = $menu['active'];
 				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
 				      <li><a href="/download/Rotationsplan_2015_2022.pdf">Rotationsplan</a></li>
 				    </ul>
-				  </li>				  
+				  </li>
 				</ul>
 			</div>
 		</div>
@@ -121,4 +121,3 @@ $mA = $menu['active'];
 <!-- Besonderes
 <h4 class="hinweis" style="text-align:center;"><a href="http://www.sparkassen-gala.de/2012/">&raquo; Seite der Sparkassen Gala 2012</a></h4>
 <br />	-->
-
