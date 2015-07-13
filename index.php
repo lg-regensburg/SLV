@@ -12,19 +12,6 @@
 
 <br><br>
 
-
-<p><strong>Zeitplan für Süddeutsche Meisterschaften online</strong></p>
-
-<p>Der Zeitplan der Süddeutschen Meisterschaften U23/U16 2015 in Kassel kann hier <a href="http://www.slv-leichtathletik.de/download/Zeitplan_SDM_2015.pdf">hier</a> heruntergeladen werden.</p>
-
-<br><br>
-
-<p><strong>Aktualisierte Ausschreibung für Süddeutsche Meisterschaften online</strong></p>
-
-<p>Die aktualisierte Ausschreibung der Süddeutschen Meisterschaften U23/U16 2015 in Kassel kann hier <a href="http://www.slv-leichtathletik.de/download/Ausschreibung_SDM_2015.pdf">hier</a> heruntergeladen werden.</p>
-
-<br><br>
-
 <p><strong>Liebe Sportfreunde,</strong></p>
 
 <p>herzlich willkommen auf der Internetpräsenz des Süddeutschen
