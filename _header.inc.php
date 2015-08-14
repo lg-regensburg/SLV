@@ -56,14 +56,15 @@ $mA = $menu['active'];
 				      <li><a target="_blank" href="/download/Ausschreibung_SDHM_U18.pdf">SDHM Aktive / U 18</a></li>
 				      <li><a target="_blank" href="/download/Meldeliste-Süddt.Halle-Akt-U18+Rahmenwettb.pdf">SDHM Aktive / U 18 Teilnehmer</a></li>
 				      <li><a target="_blank" href="/download/Ausschreibung%20Bayer%20und%20S%C3%BCddeutsche%2020140521%2013%20Uhr.pdf">SDM Gehen</a></li>
-					  <li><a target="_blank" href="http://www.lvrheinhessen.de/">SDM Senioren MK</a></li>
+              <li><a target="_blank" href="http://www.hlv.de/WETTKAMPFSPORT/view_termin.asp?id=975">SDM Bahngehen</a></li>
+					  <li><a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2015/Ausschreibungen-2015/150919-55%20SLV%20Senioren-MK%202015.pdf">SDM Senioren MK</a></li>
 				      <li><a target="_blank" href="/download/Allgemeine%20Ausschreibungsbestimmungen%20Aenderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
 				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
 					</ul>
 				  </li>
 				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a>
 				  <ul>
-				      <li><a target="_blank" href="http://lg-telis-finanz.de/2014_sueddeutsche/ergebnisse.php">SDM Aktive / U 18</a></li>
+				      <li><a target="_blank" href="http://ladv.de/ergebnis/datei/24012">SDM Aktive / U 18</a></li>
 					  <li><a target="_blank" href="http://slvu23.hlv-region-nord.de/day1.htm">SDM U23 / U16</a></li>
 					  <li><a target="_blank" href="http://lalive.de/150207DESHT">SDHM Aktive / U 18</a></li>
 					  <li><a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2014/Ergebnisse-2014/140920-SLV%20SenMk%20Erg%20.htm">SDM Senioren MK</a></li>

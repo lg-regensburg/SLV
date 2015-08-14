@@ -6,9 +6,9 @@
 <!-- <h2>Überschrift</h2>
 <br /> -->
 
-<p><strong>Ergebnisse für Süddeutsche Meisterschaften online</strong></p>
+<p><strong>Veranstaltungshinweis</strong></p>
 
-<p>Die Ergebnisse der Süddeutschen Meisterschaften U23/U16 2015 in Kassel können hier <a target="_blank" href="http://slvu23.hlv-region-nord.de">hier</a> heruntergeladen werden.</p>
+<p><a target="_blank" href="http://www.hlv.de/WETTKAMPFSPORT/view_termin.asp?id=975">Süddeutsche Meisterschaften Bahngehen</a></p>
 
 <br><br>
 
