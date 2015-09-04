@@ -1,7 +1,7 @@
 
 				</div>
 				<!-- IE column clearing -->
-				<div id="ie_clearing">&nbsp;</div>
+				<div id="ie_clearing"> </div>
 			</div>
 			<!-- end: #col3 -->
 
@@ -12,7 +12,7 @@
 		<!-- end: #footer -->
 	</div>
 </div>
-<div id="copyright">&copy; 2014 athletics SPORT GmbH</div>
+<div id="copyright">© 2014 athletics SPORT GmbH</div>
 <!-- Google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

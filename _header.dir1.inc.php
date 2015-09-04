@@ -52,7 +52,7 @@ $mA = $menu['active'];
 				   	<ul>
 				      <li><a href="../news/vorschauen.php">Vorschauen</a></li>
 				      <li><a href="../news/berichte.php">Berichte</a></li>
-				      <li><a href="">Impressionen &nbsp; &raquo;</a>
+				      <li><a href="">Impressionen   »</a>
 						<ul id="navImpressionen">
 						  <li><a href="../news/impressionen-kiefner.php">von Theo Kiefner</a></li>
 						  <!--<li><a href="../news/impressionen-lutz.php">von Ludwig Lutz</a></li>
@@ -105,7 +105,7 @@ $mA = $menu['active'];
 			<!-- end: #col1 -->
 			<!-- begin: #col2 second float column -->
 			<div id="col2">
-				<div id="col2_content" class="clearfix">&nbsp;</div>
+				<div id="col2_content" class="clearfix"> </div>
 			</div>
 			<!-- end: #col2 -->
 
@@ -116,5 +116,5 @@ $mA = $menu['active'];
 					<a id="content" name="content"></a><br />
 
 <!-- Besonderes
-<h4 class="hinweis" style="text-align:center;"><a href="http://www.sparkassen-gala.de/2012/">&raquo; Seite der Sparkassen Gala 2012</a></h4>
+<h4 class="hinweis" style="text-align:center;"><a href="http://www.sparkassen-gala.de/2012/">» Seite der Sparkassen Gala 2012</a></h4>
 <br />	-->

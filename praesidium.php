@@ -62,7 +62,7 @@
 		Fon: 06202 / 713 26</p>
 		<p>
 		Fax: 06202 / 780 111</p>
-		<p>&nbsp;</td>
+		<p> </td>
 		<td valign="top" style="width: 315px; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
 		<p><strong>Sprecher der Kampfrichterwarte</strong></p>
 		<p>
@@ -78,7 +78,7 @@
 		<p>
 		Mail: 
 		rolf-achim.doerr(at)web.de<p>
-		&nbsp;</td>
+		 </td>
 	</tr>
 	<tr>
 		<td valign="top" style="width: 318px; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
@@ -96,10 +96,10 @@
 		789069</p>
 		<p>
 		Mail: locher(at)wlv-sport.de 
-		<p>&nbsp;</td>
+		<p> </td>
 		<td valign="top" style="width: 315px; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
 		<p><strong>Kassenprüfer</strong></p>
-		<p>&nbsp;</p>
+		<p> </p>
 		<p>
 		N.N.</td>
 	</tr>

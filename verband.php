@@ -8,7 +8,7 @@
 
 	<ul>
 	  <li><a href="praesidium.php">Präsidium</a></li>
-	  <li><a href="verbaende.php">Mitgliedsverbände&nbsp; &raquo;</a>
+	  <li><a href="verbaende.php">Mitgliedsverbände  »</a>
 		<ul id="navImpressionen">
 		  <li><a href="http://www.blv-online.de/">Baden</a></li>
 		  <li><a href="http://www.blv-sport.de">Bayern</a></li>

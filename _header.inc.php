@@ -74,7 +74,7 @@ $mA = $menu['active'];
 				   <li<? if($m == 'verband') echo $mA; ?>><a href="verband.php">Verband</a>
 				    <ul>
 				      <li><a href="praesidium.php">Präsidium</a></li>
-				      <li><a href="verbaende.php">Mitgliedsverbände&nbsp; &raquo;</a>
+				      <li><a href="verbaende.php">Mitgliedsverbände  »</a>
 						<ul id="navImpressionen">
 						  <li><a href="http://www.blv-online.de/">Baden</a></li>
 						  <li><a href="http://www.blv-sport.de">Bayern</a></li>
@@ -110,7 +110,7 @@ $mA = $menu['active'];
 			<!-- end: #col1 -->
 			<!-- begin: #col2 second float column -->
 			<div id="col2">
-				<div id="col2_content" class="clearfix">&nbsp;</div>
+				<div id="col2_content" class="clearfix"> </div>
 			</div>
 			<!-- end: #col2 -->
 
@@ -120,5 +120,5 @@ $mA = $menu['active'];
 					<!-- skip anchor: content -->
 					<a id="content" name="content"></a><br />
 <!-- Besonderes
-<h4 class="hinweis" style="text-align:center;"><a href="http://www.sparkassen-gala.de/2012/">&raquo; Seite der Sparkassen Gala 2012</a></h4>
+<h4 class="hinweis" style="text-align:center;"><a href="http://www.sparkassen-gala.de/2012/">» Seite der Sparkassen Gala 2012</a></h4>
 <br />	-->

@@ -29,7 +29,7 @@ Gerit Wagner (<a href="mailto:gerit.wagner@lg-regensburg.de">gerit.wagner@lg-reg
   <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.sparkassen-gala.de/impressum.php" target="_blank"><img
     style="border:0;width:88px;height:31px"
     src="http://jigsaw.w3.org/css-validator/images/vcss" 
-    alt="Valid CSS!" /></a></p><p align="center" class="textnote">Dieses Layout basiert auf <a href="http://www.yaml.de" target="_blank">YAML</a> &copy; 2005-2006 by <a href="http://www.highresolution.info">Dirk Jesse</a></p>
+    alt="Valid CSS!" /></a></p><p align="center" class="textnote">Dieses Layout basiert auf <a href="http://www.yaml.de" target="_blank">YAML</a> © 2005-2006 by <a href="http://www.highresolution.info">Dirk Jesse</a></p>
 <p align="center" class="textnote">Diese Webseite benutzt das  <a href="http://www.aplus.co.yu/adxmenu/">ADxMenu</a>, by studio.aplus</p>
 <hr />
 <?php require("_footer.inc.php"); ?>
