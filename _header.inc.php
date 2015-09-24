@@ -67,7 +67,7 @@ $mA = $menu['active'];
 				      <li><a target="_blank" href="http://ladv.de/ergebnis/datei/24012">SDM Aktive / U 18</a></li>
 					  <li><a target="_blank" href="http://slvu23.hlv-region-nord.de/day1.htm">SDM U23 / U16</a></li>
 					  <li><a target="_blank" href="http://lalive.de/150207DESHT">SDHM Aktive / U 18</a></li>
-					  <li><a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2014/Ergebnisse-2014/140920-SLV%20SenMk%20Erg%20.htm">SDM Senioren MK</a></li>
+					  <li><a target="_blank" href="http://www.lg-telis-finanz.de/2015_ergebnisse/2015-09-19-Nieder-Olm.pdf">SDM Senioren MK</a></li>
 				      <li><a target="_blank" href="http://www.blv-sport.de/fileadmin/wettkampfsport/2014/erg/0712_blv-strassengehen.pdf">SDM Gehen</a></li>
 					<li><a href="ergebnisse.php">Ergebnisse der letzten Jahre</a>
 				  </ul></li>
