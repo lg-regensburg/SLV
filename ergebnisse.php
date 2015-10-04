@@ -7,7 +7,7 @@
 <br />
 
 <p><a target="_blank" href="http://ladv.de/ergebnis/datei/24012">SDM Aktive / U 18</a></p>
-<p><a target="_blank" href="http://live3.cktu.de/index.php?ver=130727DEFOB">SDM U23 / U16</a></p>
+<p><a target="_blank" href="http://www.hlv-region-nord.de/Ergebnisse/SDVKS2015.htm">SDM U23 / U16</a></p>
 <p><a target="_blank" href="http://ladv.de/ergebnis/datei/14826">SDHM Aktive / U 18</a></p>
 <p><a target="_blank" href="http://www.lg-telis-finanz.de/2015_ergebnisse/2015-09-19-Nieder-Olm.pdf">SDM Senioren MK</a></p>
 <p><a target="_blank" href="http://blv-sport.de/service/msonline/files/20135291-e.htm">SDM Gehen</a></p>
@@ -22,7 +22,7 @@
 <p>
 <a href="http://lg-telis-finanz.de/2014_sueddeutsche/ergebnisse.php">2014 in Regensburg</a><br />
 <a href="http://lg-telis-finanz.de/2013_sueddeutsche/">2013 in Regensburg</a><br />
-<a href="http://ladv.de/ergebnis/datei/8901">2012 in Wetzlar</a><br />
+<a href="http://www.hlv.de/ERGEBNISSE/2012/SDM_Wetzlar.htm">2012 in Wetzlar</a><br />
 </p>
 
 <p><strong>SDM U23/ U16</strong></p>
