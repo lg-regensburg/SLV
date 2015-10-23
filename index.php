@@ -7,15 +7,6 @@
 <br /> -->
 
     <p>
-      <strong>Veranstaltungshinweis</strong>
-    </p>
-
-    <p><a target="_blank" href="http://www.hlv.de/WETTKAMPFSPORT/view_termin.asp?id=975">Süddeutsche Meisterschaften Bahngehen</a></p>
-
-    <br>
-    <br>
-
-    <p>
       <strong>Liebe Sportfreunde,</strong>
     </p>
 

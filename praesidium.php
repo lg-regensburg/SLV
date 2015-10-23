@@ -50,14 +50,14 @@
       <tr>
         <td valign="top" style="width: 318px; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
           <p>
-            <strong>Geschäftsstelle Hessischer Leichtathletik-Verband</strong>
+            <strong>Geschäftsstelle Bayerischer Leichtathletik-Verband</strong>
           </p>
-          <p>Otto-Fleck-Schneise 4</p>
-          <p>60528 Frankfurt</p>
-          <p>Tel.: 069/6789211 bis 213</p>
-          <p>Fax: 069/679708</p>
-          <p>Internet: <a position="37" style="text-decoration: underline; text-underline: single" href="http://www.hlv.de/">www.hlv.de</a></p>
-          <p>Mail:Info (at) HLV.de</p>
+          <p>Georg-Brauchle-Ring 93</p>
+          <p>80992 München</p>
+          <p>Tel.: 089 / 157 02 375 bis -379</p>
+          <p>Fax: 089 / 157 02 - 380</p>
+          <p>Internet: <a position="37" style="text-decoration: underline; text-underline: single" href="http://www.blv-sport.de">www.blv-sport.de</a></p>
+          <p>Mail:Info (at) blv-sport.de</p>
           <td valign="top" style="width: 315px; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
             <p>
               <strong>Schatzmeister</strong>
