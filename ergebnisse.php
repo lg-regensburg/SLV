@@ -6,12 +6,6 @@
 
     <br />
 
-    <p><a target="_blank" href="http://ladv.de/ergebnis/datei/24012">SDM Aktive / U 18</a></p>
-    <p><a target="_blank" href="http://www.hlv-region-nord.de/Ergebnisse/SDVKS2015.htm">SDM U23 / U16</a></p>
-    <p><a target="_blank" href="http://ladv.de/ergebnis/datei/14826">SDHM Aktive / U 18</a></p>
-    <p><a target="_blank" href="http://www.lg-telis-finanz.de/2015_ergebnisse/2015-09-19-Nieder-Olm.pdf">SDM Senioren MK</a></p>
-    <p><a target="_blank" href="http://blv-sport.de/service/msonline/files/20135291-e.htm">SDM Gehen</a></p>
-
     <br />
 
     <h2>Ergebnisse der vergangenen Jahre</h2>
@@ -22,6 +16,8 @@
     </p>
 
     <p>
+      <a target="_blank" href="http://ladv.de/ergebnis/datei/24012">2015 in Kaiserslautern</a>
+      <br />
       <a href="http://lg-telis-finanz.de/2014_sueddeutsche/ergebnisse.php">2014 in Regensburg</a>
       <br />
       <a href="http://lg-telis-finanz.de/2013_sueddeutsche/">2013 in Regensburg</a>
@@ -35,6 +31,8 @@
     </p>
 
     <p>
+      <a target="_blank" href="http://www.hlv-region-nord.de/Ergebnisse/SDVKS2015.htm">2015 in Kassel</a>
+      <br />
       <a href="http://www.djk-friedberg.de/upload/docs/140802eg.htm">2014 in Augsburg</a>
       <br />
       <a href="http://ladv.de/ergebnis/datei/13199">2013 in Forst</a>
@@ -47,6 +45,8 @@
       <strong>SDHM Aktive/ U18</strong>
     </p>
     <p>
+      <a target="_blank" href="http://ladv.de/ergebnis/datei/14826">2015 in Karlsruhe</a>
+      <br />
       <a href="http://lalive.de/150207DESHT">2015 in Karlsruhe</a>
       <br />
       <a href="http://ladv.de/ergebnis/datei/14826">2014 in Karlsruhe</a>
@@ -61,6 +61,8 @@
       <strong>SDM Senioren MK</strong>
     </p>
     <p>
+      <a target="_blank" href="http://www.lg-telis-finanz.de/2015_ergebnisse/2015-09-19-Nieder-Olm.pdf">2015 in Nieder-Olm</a>
+      <br />
       <a href="http://ladv.de/ergebnis/datei/19611">2014 in Nieder-Olm</a>
       <br />
       <a href="http://ladv.de/ergebnis/datei/14258">2013 in Nieder-Olm</a>
@@ -73,6 +75,8 @@
       <strong>SDM Gehen</strong>
     </p>
     <p>
+      <a target="_blank" href="http://blv-sport.de/service/msonline/files/20135291-e.htm">2015 in Breitenbrunn</a>
+      <br />
       <a href="http://www.blv-sport.de/fileadmin/wettkampfsport/2014/erg/0712_blv-strassengehen.pdf">2014 in Niederaichbach</a>
       <br />
       <a href="http://ladv.de/ergebnis/datei/12423">2013 in Breitenbrunn</a>
