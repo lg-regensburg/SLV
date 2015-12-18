@@ -12,7 +12,7 @@
 		<!-- end: #footer -->
 	</div>
 </div>
-<div id="copyright">© 2014 Süddeutscher Leichtathletik Verband</div>
+<div id="copyright">© <?php echo date("Y"); ?> Süddeutscher Leichtathletik Verband</div>
 <!-- Google Analytics
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
