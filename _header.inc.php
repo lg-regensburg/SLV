@@ -52,13 +52,12 @@ $mA = $menu['active'];
 				    <ul>
 				      <li><a href="termine.php">Termine</a></li>
 				      <li><a target="_blank" href="http://www.sdm2015.de/ ">SDM Aktive / U18 </a></li>
-				      <li><a target="_blank" href="/download/Ausschreibung_SDM_2015.pdf">SDM U23 / U16</a></li>
-				      <li><a target="_blank" href="/download/Ausschreibung_SDHM_U18.pdf">SDHM Aktive / U 18</a></li>
-				      <li><a target="_blank" href="/download/Meldeliste-Süddt.Halle-Akt-U18+Rahmenwettb.pdf">SDHM Aktive / U 18 Teilnehmer</a></li>
-				      <li><a target="_blank" href="/download/Ausschreibung%20Bayer%20und%20S%C3%BCddeutsche%2020140521%2013%20Uhr.pdf">SDM Gehen</a></li>
+				      <li><a target="_blank" href="/download/Ausschreibung_SDM_2016.pdf">SDM U23 / U16</a></li>
+				      <li><a target="_blank" href="/download/Ausschreibung_SDHM_2016.pdf">SDHM Aktive / U 18</a></li>
+				      <li><a target="_blank" href="http://www.blv-sport.de/index.php?id=242&vid=20166557">SDM Gehen</a></li>
               <li><a target="_blank" href="http://www.hlv.de/WETTKAMPFSPORT/view_termin.asp?id=975">SDM Bahngehen</a></li>
 					  <li><a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2015/Ausschreibungen-2015/150919-55%20SLV%20Senioren-MK%202015.pdf">SDM Senioren MK</a></li>
-				      <li><a target="_blank" href="/download/Allgemeine%20Ausschreibungsbestimmungen%20Aenderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
+				      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen_Aenderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
 				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
 					</ul>
 				  </li>
@@ -84,7 +83,7 @@ $mA = $menu['active'];
 						  <li><a href="http://www.lvrheinhessen.de">Rheinhessen</a></li>
 						  <li><a href="http://www.slb-saarland.com">Saarland</a></li>
 						</ul></li>
-				      <li><a target="_blank" href="/download/Allgemeine%20Ausschreibungsbestimmungen%20%C3%84nderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
+				      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen_Aenderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
 				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
 				      <li><a href="/download/Rotationsplan_2015_2022.pdf">Rotationsplan</a></li>
 				    </ul>

@@ -23,7 +23,7 @@
           <p>
             Mobil: 0175-4122728</p>
           <p>
-            Mail: schweitzer (at) blv-sport.de </p>
+            Mail: jochen.schweitzer (at) slv-leichtathletik.de </p>
         </td>
         <td valign="top" style="width: 318px; border: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
           <p>
@@ -34,7 +34,7 @@
           <p>55459 Grolsheim</p>
           <p>Telefon:: 06727 / 5855</p>
           <p>Fax: 06727 / 952988</p>
-          <p>Mail: paul.blaschke(at)t-online.de</p>
+          <p>Mail: paul.blaschke (at) slv-leichtathletik.de</p>
         </td>
         <td valign="top" style="width: 318px; border: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
           <p>
@@ -44,7 +44,7 @@
           <p>Schillerstr. 4</p>
           <p>72663 Grossbettlingen</p>
           <p>Tel. 07022 / 90 454 95</p>
-          <p>Mail: krieg.hans (at) t-online.de</p>
+          <p>Mail: hans.krieg (at) slv-leichtathletik.de</p>
         </td>
       </tr>
       <tr>
@@ -66,7 +66,7 @@
             <p>Bleichgraben 7 d, </p>
             <p> 67269 Grünstadt</p>
             <p>Fon: 06359/872763 </p>
-            <p>Mail: paulpaszyna(at)aol.com
+            <p>Mail: paul.paszyna (at) slv-leichtathletik.de
               <p>
           </td>
           <td valign="top" style="width: 315px; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
