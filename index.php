@@ -4,9 +4,9 @@
   <?php require("_header.inc.php"); ?>
 
     <h2>Süddeutsche Hallenmeisterschaften 2016</h2>
-
+    <br>
     <p>
-      Die <a href="/download/2016_01_30-Teilnehmerliste-SDHM-Sindelfingen.htm">Teilnehmerliste</a> und der <a href="/download/SLV-Hallenmeisterschaft-2016-Zeitplan.pdf">Zeitplan</a> der Süddeutschen Hallenmeisterschaften 2016 in Sindelfingen sind online.
+      Die <a href="/download/2016_01_30-Teilnehmerliste-SDHM-Sindelfingen.htm" target="_blank">Teilnehmerliste</a> und der <a href="/download/SLV-Hallenmeisterschaft-2016-Zeitplan.pdf" target="_blank">Zeitplan</a> der Süddeutschen Hallenmeisterschaften 2016 in Sindelfingen sind online.
     </p>
 
 
