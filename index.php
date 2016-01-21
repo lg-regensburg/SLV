@@ -3,8 +3,12 @@
  $menu['current'] = "home"; ?>
   <?php require("_header.inc.php"); ?>
 
-    <!-- <h2>Überschrift</h2>
-<br /> -->
+    <h2>Süddeutsche Hallenmeisterschaften 2016</h2>
+
+    <p>
+      Die <a href="/download/2016_01_30-Teilnehmerliste-SDHM-Sindelfingen.htm">Teilnehmerliste</a> und der <a href="/download/SLV-Hallenmeisterschaft-2016-Zeitplan.pdf">Zeitplan</a> der Süddeutschen Hallenmeisterschaften 2016 in Sindelfingen sind online.
+    </p>
+
 
     <h2>Jochen Schweitzer zum neuen Präsidenten des Süddeutschen Leichtathletik-Verbandes gewählt</h2>
 
