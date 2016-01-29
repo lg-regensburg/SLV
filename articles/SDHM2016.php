@@ -1,7 +1,7 @@
 <?php $title = 'Home';
  $description = 'Willkommen auf der offiziellen Webseite des Süddeutschen Leichtathletikverbandes';
  $menu['current'] = 'home'; ?>
-  <?php require '../_header.inc.php'; ?>
+  <?php require '../_header.dir1.inc.php'; ?>
 
   <h2>Süddeutsche Hallenmeisterschaften in Sindelfingen</h2>
   <br>
@@ -97,4 +97,4 @@
     <p></p>
     <p></p>
     <br />
-    <?php require '../_footer.inc.php'; ?>
+    <?php require '../_footer.dir1.inc.php'; ?>
