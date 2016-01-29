@@ -4,7 +4,7 @@
   <?php require '_header.inc.php'; ?>
 
   <h2>Süddeutsche Hallenmeisterschaften in Sindelfingen</h2>
-
+  <br>
   <p>
     Die Süddeutschen Leichtathletik-Hallenmeisterschaften am 30. und 31. Januar 2016 bilden den Höhepunkt der diesjährigen Leichtathletik-Saison unter dem Hallendach im Bereich des Württembergischen Leichtathletik-Verbandes. Insgesamt 955 Athletinnen und Athleten von 220 Vereinen aus dem Gebiet der Süddeutschen Leichtathletik-Verbände haben für diese Veranstaltung ihre Meldung abgegeben. Dies verdeutlicht, welch hohe Attraktivität die Süddeutschen Hallenmeisterschaften nach wie vor genießen. 48 Einzeltitel und 7 Staffeltitel in den Klassen Frauen, Männer sowie weibliche und männliche Jugend U18 werden an den beiden Veranstaltungstagen im frisch sanierten Sindelfinger Glaspalast - dem Wohnzimmer der Leichtathletik in Württemberg - vergeben. Für das Team des Ausrichters VfL Sindelfingen also viel Arbeit, die aber mit der Erfahrung vieler Top-Events im Glaspalast engagiert und routiniert geleistet wird; alle Teilnehmer können sich auf eine bestens präparierte Halle und optimale Bedingungen freuen.
   </p>
