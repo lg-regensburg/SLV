@@ -6,7 +6,7 @@
     <h2>Süddeutsche Hallenmeisterschaften 2016</h2>
     <br>
     <p>
-      Die <a href="/download/2016_01_30-Teilnehmerliste-SDHM-Sindelfingen.htm" target="_blank">Teilnehmerliste</a>, <a href="/download/SLV-Hallenmeisterschaft-2016-Zeitplan.pdf" target="_blank">Zeitplan</a> und <a href="http://www.wlv-sport.de/live/2016SLVHalle/">Live-Ergebnisse</a> der Süddeutschen Hallenmeisterschaften 2016 in Sindelfingen sind online.
+      <a href="http://www.wlv-sport.de/live/2016SLVHalle/">Ergebnisse</a> der Süddeutschen Hallenmeisterschaften 2016 in Sindelfingen sind online.
     </p>
 
   <h2>Süddeutsche Hallenmeisterschaften in Sindelfingen</h2>
