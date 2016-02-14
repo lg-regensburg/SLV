@@ -48,28 +48,8 @@ $mA = $menu['active'];
 			<div id="nav_main">
 				<ul class="adxm menu">
 				  <li<? if($m == 'home') echo $mA; ?>><a href="index.php">Home</a></li>
-				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="ausschreibungen.php">Veranstaltungen</a>
-				    <ul>
-				      <li><a href="termine.php">Termine</a></li>
-				      <li><a target="_blank" href="http://www.sdm2015.de/ ">SDM Aktive / U18 </a></li>
-				      <li><a target="_blank" href="/download/Ausschreibung_SDM_2016.pdf">SDM U23 / U16</a></li>
-				      <li><a target="_blank" href="/download/Ausschreibung_SDHM_2016.pdf">SDHM Aktive / U 18</a></li>
-				      <li><a target="_blank" href="http://www.blv-sport.de/index.php?id=242&vid=20166557">SDM Gehen</a></li>
-              <li><a target="_blank" href="http://www.hlv.de/WETTKAMPFSPORT/view_termin.asp?id=975">SDM Bahngehen</a></li>
-					  <li><a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2015/Ausschreibungen-2015/150919-55%20SLV%20Senioren-MK%202015.pdf">SDM Senioren MK</a></li>
-				      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen_Aenderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
-				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
-					</ul>
-				  </li>
-				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a>
-				  <ul>
-				      <li><a target="_blank" href="http://ladv.de/ergebnis/datei/24012">SDM Aktive / U 18</a></li>
-					  <li><a target="_blank" href="http://slvu23.hlv-region-nord.de/day1.htm">SDM U23 / U16</a></li>
-					  <li><a target="_blank" href="http://lalive.de/150207DESHT">SDHM Aktive / U 18</a></li>
-					  <li><a target="_blank" href="http://www.lg-telis-finanz.de/2015_ergebnisse/2015-09-19-Nieder-Olm.pdf">SDM Senioren MK</a></li>
-				      <li><a target="_blank" href="http://www.blv-sport.de/fileadmin/wettkampfsport/2014/erg/0712_blv-strassengehen.pdf">SDM Gehen</a></li>
-					<li><a href="ergebnisse.php">Ergebnisse der letzten Jahre</a>
-				  </ul></li>
+				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="ausschreibungen.php">Veranstaltungen</a></li>
+				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a></li>
 				   <li<? if($m == 'verband') echo $mA; ?>><a href="verband.php">Verband</a>
 				    <ul>
 				      <li><a href="praesidium.php">Präsidium</a></li>
