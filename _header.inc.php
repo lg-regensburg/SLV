@@ -48,7 +48,7 @@ $mA = $menu['active'];
 			<div id="nav_main">
 				<ul class="adxm menu">
 				  <li<? if($m == 'home') echo $mA; ?>><a href="index.php">Home</a></li>
-				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="ausschreibungen.php">Veranstaltungen</a></li>
+				  <li<? if($m == 'veranstaltungen') echo $mA; ?>><a href="veranstaltungen.php">Veranstaltungen</a></li>
 				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a></li>
 				   <li<? if($m == 'verband') echo $mA; ?>><a href="verband.php">Verband</a>
 				    <ul>
