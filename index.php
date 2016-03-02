@@ -3,6 +3,14 @@
  $menu['current'] = 'home'; ?>
   <?php require '_header.inc.php'; ?>
 
+  <p>
+    Am Mittwochvormittag erreichte den Süddeutschen Leichtathletik-Verband die traurige Nachricht, dass in Saarbrücken nach längerer Krankheit die langjährige Wettkampfwartin des Saarländischen Leichtathletik-Bundes (SLB) Karin Becker verstorben ist. Sie war als Vizepräsidentin Wettkampforganisation über Jahrzehnte hinweg eine treibende und äußerst zuverlässige Kraft des SLB. Bei unzähligen Meisterschaften trug sie die Verantwortung für den reibungslosen Ablauf und die Organisation. Ebenso auch für die Durchführung von süddeutschen Titelkämpfen. Mit hohem Sachverstand und Gerechtigkeitsbewusstsein setzte sie sich mit viel Herz für die Belange der Athleten und auch für die Leichtathletik ein. Sie gehörte 40 Jahre lang dem SLB-Vorstand bzw. Präsidium an und war damit dienstältestes Präsidiumsmitglied. Die Sitzungen des SLV bereicherte sie stets mit Fachwissen und großem Engagement. 2002 verlieh ihr der DLV den Ehrenschild und 2009 wurde Karin Becker mit der Sportplakette des Saarlands ausgezeichnet.
+  </p>
+
+  <p>
+    Die süddeutsche Leichtathletikfamile trauert um ein verdientes Mitglied.
+  </p>
+
     <h2>Süddeutsche Hallenmeisterschaften 2016</h2>
     <br>
     <p>
