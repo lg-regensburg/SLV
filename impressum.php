@@ -6,7 +6,8 @@
 
     <p style="font-weight: bold">Verantwortlich für den Inhalt der Webseite</p>
     <p> Anschrift:
-      <br /> Hessischer Leichtathletik-Verband
+      <br /> Süddeutscher Leichtathletik-Verband
+      <br /> Bayerischer Leichtathletik-Verband
       <br /> Otto-Fleck-Schneise 4
       <br /> 60528 Frankfurt
       <br /> Tel.: 069/6789211 bis 213
@@ -36,5 +37,5 @@
       <p align="center" class="textnote">Dieses Layout basiert auf <a href="http://www.yaml.de" target="_blank">YAML</a> © 2005-2006 by <a href="http://www.highresolution.info">Dirk Jesse</a></p>
       <p align="center" class="textnote">Diese Webseite benutzt das <a href="http://www.aplus.rs/adxmenu/">ADxMenu</a>, by studio.aplus</p>
       <hr />
-      
+
       <?php require("_footer.inc.php"); ?>
