@@ -45,6 +45,8 @@
       <strong>SDHM Aktive/ U18</strong>
     </p>
     <p>
+      <a target="_blank" href="http://www.wlv-sport.de/live/2016SLVHalle/">2016 in Sindelfingen</a>
+      <br />
       <a target="_blank" href="http://ladv.de/ergebnis/datei/14826">2015 in Karlsruhe</a>
       <br />
       <a href="http://lalive.de/150207DESHT">2015 in Karlsruhe</a>
