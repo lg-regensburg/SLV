@@ -4,7 +4,7 @@
   <?php require '_header.inc.php'; ?>
 
     <h2>Ehrenvorsitzender Hans Herzer verstorben</h2>
-
+    <br>
     <p>
       Der Ehrenvorsitzende des Saarländischen Leichtathletik-Bundes Hans Herzer ist am 11. März 2016 im Alter von 95 Jahren verstorben.
     </p>
