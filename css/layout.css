@@ -22,7 +22,22 @@
 @import url(navigation/adxmenu/ADxMenu.css);
 @import url(screen/basemod.css);
 @import url(screen/basemod_2col_left_13.css);
-@import url(screen/content.css); 
+@import url(screen/content.css);
 
 /* import print layout | Druck-Layout einbinden */
 @import url(print/print_003.css);
+
+.banner_skyscraper {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  vertical-align: top;
+  display: block !important;
+}
+
+@media (max-width: 1300px) {
+  .banner_skyscraper {
+    display: none !important;
+  }
+}

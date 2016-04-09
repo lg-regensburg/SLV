@@ -28,6 +28,11 @@ $mA = $menu['active'];
 
 </head>
 <body>
+  <div class="banner_skyscraper">
+    <a href="http://www.meine-bank-bayern.de" target="_blank" title="Volksbanken Raiffeisenbanken">
+      <img src="/images/banner/VR-Banner-hoch.png" alt="Volksbanken Raiffeisenbanken" height="600" width="176">
+            </a>
+  </div>
 <div id="page_margins">
 	<div id="page">
 		<div id="header">
@@ -78,7 +83,12 @@ $mA = $menu['active'];
 			<div id="col1">
 			  <div id="col1_content" class="clearfix">
 
-
+          <div id="col1_content" class="clearfix">
+            <br>
+            <a href="http://www.meine-bank-bayern.de" target="_blank" title="Volksbanken Raiffeisenbanken">
+            <img src="images/banner/VR-Banner.png" width="90" alt="Volksbanken Raiffeisenbanken" />
+          </a>
+          </div>
 <!--
 <iframe name="sponsoren" width="190" height="400" frameborder="0" src="sponsoren/iframe.html" scrolling="no"></iframe>
 -->
