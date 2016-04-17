@@ -3,6 +3,12 @@
  $menu['current'] = 'home'; ?>
   <?php require '_header.inc.php'; ?>
 
+    <h2>Lothar Altmeyer ist neuer Präsident der Saarländer Leichtathleten</h2>
+    <br>
+    <p>
+      Lothar Altmeyer ist neuer Präsident des Saarländischen Leichtathletik-Bundes. Mit 333 (von 431) Stimmen der anwesenden 47 Vereine wurde er bei der Generalversammlung am 15. April in der Hermann-Neuberger-Sportschule in Saarbrücken zum Nachfolger des verstorbenen Werner Zimmer an die Verbandsspitze gewählt. Sein Gegenkandidat Stefan Schaeidt erhielt 75 Stimmen. <a href="http://www.leichtathletik.de/news/news/detail/lothar-altmeyer-ist-neuer-praesident-der-saarlaender-leichtathleten/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... 
+    </p>
+
     <h2>Ehrenvorsitzender Hans Herzer verstorben</h2>
     <br>
     <p>
