@@ -6,22 +6,7 @@
     <h2>Lothar Altmeyer ist neuer Präsident der Saarländer Leichtathleten</h2>
     <br>
     <p>
-      Lothar Altmeyer ist neuer Präsident des Saarländischen Leichtathletik-Bundes. Mit 333 (von 431) Stimmen der anwesenden 47 Vereine wurde er bei der Generalversammlung am 15. April in der Hermann-Neuberger-Sportschule in Saarbrücken zum Nachfolger des verstorbenen Werner Zimmer an die Verbandsspitze gewählt. Sein Gegenkandidat Stefan Schaeidt erhielt 75 Stimmen. <a href="http://www.leichtathletik.de/news/news/detail/lothar-altmeyer-ist-neuer-praesident-der-saarlaender-leichtathleten/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... 
-    </p>
-
-    <h2>Ehrenvorsitzender Hans Herzer verstorben</h2>
-    <br>
-    <p>
-      Der Ehrenvorsitzende des Saarländischen Leichtathletik-Bundes Hans Herzer ist am 11. März 2016 im Alter von 95 Jahren verstorben.
-    </p>
-    <p>
-      Der in seiner Jugend für den SV Saar 05 Saarbrücken aktive Leichtathlet war in der zweiten Hälfte des 20. Jahrhunderts eine prägende Persönlichkeit der saarländischen Leichtathletik.
-    </p>
-    <p>
-      Er gehörte zu den Männern, die man zu Recht mit dem ehrenvollen Beinamen 'Mann der ersten Stunde' würdigt. Schon als 25-Jähriger übernahm er 1946 im SLB-Vorstand die Funktion des Schatzmeisters, die er 26 Jahre innehatte. 1972 übernahm er von seinem Vorgänger Nickel Ziegler das Amt des SLB-Vorsitzenden und bestimmte zwei Jahrzehnte lang, bis 1992, die Geschicke des Verbandes. Daneben war er Mitglied im LSVS-Vorstand und in der Sportplanungs-Kommission. In seine Zeit fielen der Bau der Kunststoffanlagen in den saarländischen Stadien und der Aufbau des Olympia-Stützpunktes Saarbrücken. Hans Herzer war als Stadionsprecher nahe beim Geschehen, sei es bei den Landesmeisterschaften oder in den Anfangsjahren des Rehlinger Pfingstsportfestes. Seine ausgleichende, sympathische und verbindliche Art, mit der er den Verband führte und den Bedürfnissen der Athleten Rechnung trug, bleiben bis heute in guter Erinnerung. Für sein großes, ein halbes Menschenleben währendes Engagement zeichnete ihn der Deutsche Leichtathletik-Verband mit dem Carl-Diem-Schild und dem Hanns-Braun-Gedächtnispreis aus. Für besondere Leistungen und außerordentliche Verdienste in der Führung der deutschen Leichtathletik verlieh ihm der Bundespräsident die Bundesverdienstkreuze Erster und Zweiter Klasse.
-    </p>
-    <p>
-      Die saarländischen Leichtathleten haben Hans Herzer viel zu verdanken und bewahren ihn in bester Erinnerung. -Horst Grischy/Lutwin Jungmann
+      Lothar Altmeyer ist neuer Präsident des Saarländischen Leichtathletik-Bundes. Mit 333 (von 431) Stimmen der anwesenden 47 Vereine wurde er bei der Generalversammlung am 15. April in der Hermann-Neuberger-Sportschule in Saarbrücken zum Nachfolger des verstorbenen Werner Zimmer an die Verbandsspitze gewählt. Sein Gegenkandidat Stefan Schaeidt erhielt 75 Stimmen. <a href="http://www.leichtathletik.de/news/news/detail/lothar-altmeyer-ist-neuer-praesident-der-saarlaender-leichtathleten/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ...
     </p>
 
     <h2>Termine</h2>
