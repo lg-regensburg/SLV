@@ -7,13 +7,13 @@
     <br />
 
     <p>
-      <strong>Hessischer Leichtathletik-Verband</strong>
+      <strong>Bayerischer Leichtathletik-Verband</strong>
     </p>
-    <p>Otto-Fleck-Schneise 4</p>
-    <p>60528 Frankfurt</p>
-    <p>Tel.: 069/6789211 bis 213</p>
-    <p>Fax: 069/679708</p>
-    <p>Internet: www.hlv.de</p>
-    <p>E-Mail: Info@HLV.de</p>
+    <p>Georg-Brauchle-Ring 93</p>
+    <p>80992 München</p>
+    <p>Tel.: 089 / 157 02-378 </p>
+    <p>Fax: 089 / 157 02-380</p>
+    <p>Internet: www.blv-sport.de</p>
+    <p>E-Mail: info@blv-sport.de</p>
 
     <?php require("_footer.inc.php"); ?>
