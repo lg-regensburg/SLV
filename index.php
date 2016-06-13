@@ -3,17 +3,8 @@
  $menu['current'] = 'home'; ?>
   <?php require '_header.inc.php'; ?>
 
-    <h2>Lothar Altmeyer ist neuer Präsident der Saarländer Leichtathleten</h2>
-    <br>
-    <p>
-      Lothar Altmeyer ist neuer Präsident des Saarländischen Leichtathletik-Bundes. Mit 333 (von 431) Stimmen der anwesenden 47 Vereine wurde er bei der Generalversammlung am 15. April in der Hermann-Neuberger-Sportschule in Saarbrücken zum Nachfolger des verstorbenen Werner Zimmer an die Verbandsspitze gewählt. Sein Gegenkandidat Stefan Schaeidt erhielt 75 Stimmen. <a href="http://www.leichtathletik.de/news/news/detail/lothar-altmeyer-ist-neuer-praesident-der-saarlaender-leichtathleten/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ...
-    </p>
-
     <h2>Termine</h2>
     <br />
-    <p>16.01.2016 Süddeutsche Hallenmeisterschaften im Bahngehen in Karlsruhe</p>
-    <p>30.-31.01.2016 SLV-Hallenmeistersch. Aktive/U18 in Sindelfingen</p>
-    <p>12.03.2016 Süddeutsche Meisterschaften Aktive 10.000m (Bahn) in Regensburg</p>
     <p>25.-26.06.2016 SLV-Meisterschaften Aktive/ U18 in Heilbronn</p>
     <p>16.-17.07.2016 SLV-Meisterschaften U23/U16 in St. Wendel</p>
     <p>24.09.2016 SLV-Meisterschaften Seniorenmehrkampf in Nieder-Olm</p>
