@@ -17,6 +17,7 @@ $mA = $menu['active'];
 <meta name="language" content="de" />
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 <link href="css/layout.css" rel="stylesheet" type="text/css"/>
+<script language="JavaScript" type="text/javascript" src="banner-rotation.js"></script>
 <!--[if lte IE 7]>
 <link href="css/patches/patch_layout.css" rel="stylesheet" type="text/css" />
 <![endif]-->
@@ -27,12 +28,18 @@ $mA = $menu['active'];
 <![endif]-->
 
 </head>
-<body>
-  <div class="banner_skyscraper">
+<body onload="bildwechsel('');">
+  <div class="banner_skyscraper" id="sponsoren1">
+    <a href="" target="_blank" id="imagelink">
+      <img src="../images/blank.gif" border="0" name="sponsoren1" height="600" width="176"/>
+    </a>
+  </div>
+  <!-- <div class="banner_skyscraper">
     <a href="http://www.meine-bank-bayern.de" target="_blank" title="Volksbanken Raiffeisenbanken">
       <img src="/images/banner/VR-Banner-hoch.png" alt="Volksbanken Raiffeisenbanken" height="600" width="176">
             </a>
-  </div>
+  </div> -->
+
 <div id="page_margins">
 	<div id="page">
 		<div id="header">
