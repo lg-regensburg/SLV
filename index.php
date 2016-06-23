@@ -3,6 +3,12 @@
  $menu['current'] = 'home'; ?>
   <?php require '_header.inc.php'; ?>
 
+    <h2>Teilnehmerliste der Süddeutschen Meisterschaften</h2>
+    <br>
+    <p>
+      Die Teilnehmerliste der Süddeutschen Meisterschaften ist <a href="http://www.wlv-sport.de/filerepository/wlvfile576424ae9d15c.htm" target="_blank">online</a>.
+    </p>
+
     <h2>Aktualisierter Zeitplan SDM Männer, Frauen, U18</h2>
     <br>
     <p>
