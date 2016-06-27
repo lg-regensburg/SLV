@@ -3,16 +3,11 @@
  $menu['current'] = 'home'; ?>
   <?php require '_header.inc.php'; ?>
 
-    <h2>Teilnehmerliste der Süddeutschen Meisterschaften</h2>
+    <h2>Ergebnisse der Süddeutschen Meisterschaften</h2>
     <br>
     <p>
-      Die Teilnehmerliste der Süddeutschen Meisterschaften ist <a href="http://www.wlv-sport.de/filerepository/wlvfile576424ae9d15c.htm" target="_blank">online</a>.
-    </p>
-
-    <h2>Aktualisierter Zeitplan SDM Männer, Frauen, U18</h2>
-    <br>
-    <p>
-      Der Zeitplan der Süddeutschen Meisterschaften in Heilbronn wurde aktualisiert und steht <a href="download/Zeitplan%20SLV%20Aktive-U18_Heilbronn%202016_Final.pdf">hier</a> zur Verfügung.
+      Die Ergebnisse der Süddeutschen Meisterschaften ist <a href="http://www.wlv-sport.de/live/2016SLVHeilbronn/
+" target="_blank">online</a>.
     </p>
 
     <h2>Termine</h2>
