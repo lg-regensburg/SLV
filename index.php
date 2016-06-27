@@ -6,7 +6,7 @@
     <h2>Ergebnisse der Süddeutschen Meisterschaften</h2>
     <br>
     <p>
-      Die Ergebnisse der Süddeutschen Meisterschaften ist <a href="http://www.wlv-sport.de/live/2016SLVHeilbronn/
+      Die Ergebnisse der Süddeutschen Meisterschaften sind <a href="http://www.wlv-sport.de/live/2016SLVHeilbronn/
 " target="_blank">online</a>.
     </p>
 
