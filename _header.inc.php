@@ -31,7 +31,7 @@ $mA = $menu['active'];
 <body onload="bildwechsel('');">
   <div class="banner_skyscraper" id="sponsoren1">
     <a href="" target="_blank" id="imagelink">
-      <img src="../images/blank.gif" border="0" name="sponsoren1" height="600" width="176"/>
+      <img src="images/blank.gif" border="0" name="sponsoren1" height="600" width="176"/>
     </a>
   </div>
   <!-- <div class="banner_skyscraper">
@@ -88,8 +88,6 @@ $mA = $menu['active'];
 		<div id="main">
 			<!-- begin: #col1 - first float column -->
 			<div id="col1">
-			  <div id="col1_content" class="clearfix">
-
           <div id="col1_content" class="clearfix">
             <br>
             <a href="http://www.meine-bank-bayern.de" target="_blank" title="Volksbanken Raiffeisenbanken">

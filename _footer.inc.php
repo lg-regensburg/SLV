@@ -8,7 +8,7 @@
 		</div>
 		<!-- end: #main -->
 		<!-- begin: #footer -->
-		<div id="footer"><a href="index.php">Home</a> | <a href="/ausschreibungen.php">Veranstaltungen</a> | <a href="/ergebnisse.php">Ergebnisse</a> | <a href="/verband.php">Verband</a> | <a href="kontakt.php">Kontakt</a> | <a href="impressum.php">Impressum</a></div>
+		<div id="footer"><a href="index.php">Home</a> | <a href="/veranstaltungen.php">Veranstaltungen</a> | <a href="/ergebnisse.php">Ergebnisse</a> | <a href="/verband.php">Verband</a> | <a href="kontakt.php">Kontakt</a> | <a href="impressum.php">Impressum</a></div>
 		<!-- end: #footer -->
 	</div>
 </div>
