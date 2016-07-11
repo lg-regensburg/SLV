@@ -3,13 +3,6 @@
  $menu['current'] = 'home'; ?>
   <?php require '_header.inc.php'; ?>
 
-    <h2>Ergebnisse der Süddeutschen Meisterschaften</h2>
-    <br>
-    <p>
-      Die Ergebnisse der Süddeutschen Meisterschaften sind <a href="http://www.wlv-sport.de/live/2016SLVHeilbronn/
-" target="_blank">online</a>.
-    </p>
-
     <h2>Termine</h2>
     <br />
     <p>25.-26.06.2016 SLV-Meisterschaften Aktive/ U18 in Heilbronn</p>
