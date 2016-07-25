@@ -7,7 +7,7 @@
       <strong>Meldeliste Süddeutsche Meisterschaften Bahngehen online</strong>
     </p>
     <br>
-    <p>Die Meldelisten der Süddeutschen Meisterschaften im Bahngehen sind <a href="hlv.de/TERMINE/AUSSCHREIBUNGEN/2016/Ausschreibung_SDM_2016_Bahngehen.pdf" target="_blank">online</a>.
+    <p>Die Meldelisten der Süddeutschen Meisterschaften im Bahngehen sind <a href="http://www.hlv.de/TERMINE/AUSSCHREIBUNGEN/2016/Ausschreibung_SDM_2016_Bahngehen.pdf" target="_blank">online</a>.
     </p>
 
     <h2>Termine</h2>
