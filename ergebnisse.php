@@ -33,6 +33,8 @@
     </p>
 
     <p>
+      <a target="_blank" href="http://www.slb-saarland.com/fileadmin/user_upload/ergebnisse/2016/sdm/20160716stwendel.htm">2016 in St. Wendel</a>
+      <br />
       <a target="_blank" href="http://www.hlv-region-nord.de/Ergebnisse/SDVKS2015.htm">2015 in Kassel</a>
       <br />
       <a href="http://www.djk-friedberg.de/upload/docs/140802eg.htm">2014 in Augsburg</a>
