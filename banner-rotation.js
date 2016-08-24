@@ -1,10 +1,8 @@
 wechelzeit = 10000;
 
-var bildnamen = new Array("images/banner/Kaernten_Laeuft.png",
-    "images/banner/VR-Banner-hoch.png"
+var bildnamen = new Array("images/banner/VR-Banner-hoch.png"
   ),
-  bildurl = new Array("http://www.kaerntenlaeuft.at/",
-    "https://www.meine-bank-no.de/homepage.html"
+  bildurl = new Array("https://www.meine-bank-no.de/homepage.html"
   ),
   bildsrc = new Array(bildnamen.length),
   bild = "sponsoren1",
