@@ -7,7 +7,7 @@
       <strong>Ausschreibung Süddeutsche Meisterschaften Bahngehen online</strong>
     </p>
     <br>
-    <p>Die Ausschreibung der <a href="www.lvrheinhessen.de/html/Termine-2016/Ausschreibungen%202016/160924%20SLV%20Senioren-MK%202016.pdf" target="_blank">der Süddeutschen Senioren-Mehrkampfmeisterschaften Meisterschaften</a> sind online.
+    <p>Die Ausschreibung der <a href="www.lvrheinhessen.de/html/Termine-2016/Ausschreibungen%202016/160924%20SLV%20Senioren-MK%202016.pdf" target="_blank">der Süddeutschen Senioren-Mehrkampfmeisterschaften Meisterschaften</a> ist online.
     </p>
 
     <h2>Termine</h2>
