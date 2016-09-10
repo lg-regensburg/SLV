@@ -81,6 +81,8 @@
       <strong>SDM Gehen</strong>
     </p>
     <p>
+      <a target="_blank" href="http://slv-leichtathletik.de/download/2016_Ergebnisliste_Gehertag_GG.pdf">2016 in Groß-Gerau</a>
+      <br />
       <a target="_blank" href="http://blv-sport.de/service/msonline/files/20135291-e.htm">2015 in Breitenbrunn</a>
       <br />
       <a href="http://www.blv-sport.de/fileadmin/wettkampfsport/2014/erg/0712_blv-strassengehen.pdf">2014 in Niederaichbach</a>
