@@ -4,16 +4,11 @@
   <?php require '_header.inc.php'; ?>
 
     <p>
-      <strong>Ausschreibung Süddeutsche Meisterschaften Bahngehen online</strong>
+      <strong>Ergebnisse online</strong>
     </p>
     <br>
-    <p>Die Ausschreibung der <a href="http://www.lvrheinhessen.de/html/Termine-2016/Ausschreibungen%202016/160924%20SLV%20Senioren-MK%202016.pdf" target="_blank">der Süddeutschen Senioren-Mehrkampfmeisterschaften Meisterschaften</a> ist online.
+    <p>Die Ergebnisse der <a href="http://www.lvrheinhessen.de/html/Termine-2016/Ergebnisse%202016/160924%20SLV%20Erg.%20MK.htm" target="_blank">der Süddeutschen Senioren-Mehrkampfmeisterschaften Meisterschaften</a> sind online.
     </p>
-
-    <h2>Termine</h2>
-    <br />
-    <p>24.09.2016 SLV-Meisterschaften Seniorenmehrkampf in Nieder-Olm</p>
-    <p>03.09.2016 SLV-Meisterschaften im Bahngehenin Groß Gerau</p>
 
     <p>
       <strong>Liebe Sportfreunde,</strong>

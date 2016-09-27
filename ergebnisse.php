@@ -67,6 +67,8 @@
       <strong>SDM Senioren MK</strong>
     </p>
     <p>
+      <a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2016/Ergebnisse%202016/160924%20SLV%20Erg.%20MK.htm">2016 in Nieder-Olm</a>
+      <br />
       <a target="_blank" href="http://www.lg-telis-finanz.de/2015_ergebnisse/2015-09-19-Nieder-Olm.pdf">2015 in Nieder-Olm</a>
       <br />
       <a href="http://ladv.de/ergebnis/datei/19611">2014 in Nieder-Olm</a>
