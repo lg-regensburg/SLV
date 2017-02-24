@@ -6,13 +6,14 @@
     <h2>Veranstaltungen - Termine und Ausschreibungen</h2>
     <br />
     <br />
-    <p>24.09.2016 SLV-Meisterschaften Seniorenmehrkampf in Nieder-Olm (<a href="http://www.lvrheinhessen.de/html/Termine-2016/Ausschreibungen%202016/160924%20SLV%20Senioren-MK%202016.pdf" target="_blank">Ausschreibung</a>, <a href="http://blv-sport.de/index.php?id=242&vid=20166625" target="_blank">Veranstaltungsinformationen</a>)</p>
-    <p>03.09.2016 SLV-Meisterschaften im Bahngehen in Groß Gerau (die Ausschreibung wird in Kürze zur Verfügung gestellt, <a href="http://www.hlv.de/WETTKAMPFSPORT/view_termin.asp?id=975" target="_blank">Veranstaltungsinformationen</a>)</p>
+    <p>04.-05. Februar 2017 Süddeutsche Hallenmeisterschaften in Frankfurt (<a href="download/Ausschreibung_SDHM_2017.pdf" target="_blank">Ausschreibung</a>)</p>
+    <p>18. Februar 2017 Süddeutsche Hallenmeisterschaften im Bahngehen in Kaiserslautern (<a href="http://www.roi24.net/1/media/2017/170218a-gehen.pdf" target="_blank">Ausschreibung</a>)</p>
+    <p>25. März 2017 Süddeutsche Meisterschaften 10.000m in Regensburg (<a href="http://www.lg-telis-finanz.de/2017_ausschreibung/03-25_blv-10000m.pdf" target="_blank">Ausschreibung</a>)</p>
 
     <p></p>
     <p></p>
 
-    <p><a target="_blank" href="/download/Allgemeine%20Ausschreibungsbestimmungen%20Aenderung.pdf">Ausschreibungsbestimmungen</a></p>
+    <p><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen.pdf">Ausschreibungsbestimmungen</a></p>
     <p><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></p>
 
     <?php require("_footer.inc.php"); ?>

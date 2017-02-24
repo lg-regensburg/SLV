@@ -65,17 +65,8 @@ $mA = $menu['active'];
 				   <li<? if($m == 'verband') echo $mA; ?>><a href="verband.php">Verband</a>
 				    <ul>
 				      <li><a href="praesidium.php">Präsidium</a></li>
-				      <li><a href="verbaende.php">Mitgliedsverbände  »</a>
-						<ul id="navImpressionen">
-						  <li><a href="http://www.blv-online.de/">Baden</a></li>
-						  <li><a href="http://www.blv-sport.de">Bayern</a></li>
-						  <li><a href="http://www.wlv-sport.de">Württemberg</a></li>
-						  <li><a href="http://www.lv-pfalz.de">Pfalz</a></li>
-						  <li><a href="http://www.hlv.de">Hessen</a></li>
-						  <li><a href="http://www.lvrheinhessen.de">Rheinhessen</a></li>
-						  <li><a href="http://www.slb-saarland.com">Saarland</a></li>
-						</ul></li>
-				      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen_Aenderung.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
+				      <li><a href="verband.php">Mitgliedsverbände  »</a>></li>
+				      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen.pdf">Ausschreibungs-<br/>bestimmungen</a></li>
 				      <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
 				      <li><a href="/download/Rotationsplan_2015_2022.pdf">Rotationsplan</a></li>
 				    </ul>

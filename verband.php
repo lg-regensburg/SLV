@@ -8,18 +8,19 @@
 
     <ul>
       <li><a href="praesidium.php">Präsidium</a></li>
-      <li><a href="verbaende.php">Mitgliedsverbände  »</a>
+      <li>Mitgliedsverbände
         <ul id="navImpressionen">
-          <li><a href="http://www.blv-online.de/">Baden</a></li>
-          <li><a href="http://www.blv-sport.de">Bayern</a></li>
-          <li><a href="http://www.wlv-sport.de">Württemberg</a></li>
-          <li><a href="http://www.lv-pfalz.de">Pfalz</a></li>
-          <li><a href="http://www.hlv.de">Hessen</a></li>
-          <li><a href="http://www.lvrheinhessen.de">Rheinhessen</a></li>
-          <li><a href="http://www.slb-saarland.com">Saarland</a></li>
+          <li><a target="_blank" href="http://www.blv-online.de/">Baden</a></li>
+          <li><a target="_blank" href="http://www.blv-sport.de">Bayern</a></li>
+          <li><a target="_blank" href="http://www.wlv-sport.de">Württemberg</a></li>
+          <li><a target="_blank" href="http://www.lv-pfalz.de">Pfalz</a></li>
+          <li><a target="_blank" href="http://www.hlv.de">Hessen</a></li>
+          <li><a target="_blank" href="http://www.lvrheinhessen.de">Rheinhessen</a></li>
+          <li><a target="_blank" href="http://www.lvrheinland.de">Rheinland</a></li>
+          <li><a target="_blank" href="http://www.slb-saarland.com">Saarland</a></li>
         </ul>
       </li>
-      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen_%C3%84nderung.pdf">Ausschreibungsbestimmungen</a></li>
+      <li><a target="_blank" href="/download/Allgemeine_Ausschreibungsbestimmungen.pdf">Ausschreibungsbestimmungen</a></li>
       <li><a target="_blank" href="/download/Normen_SDM.pdf">Normen</a></li>
       <li><a href="/download/Rotationsplan_2015_2022.pdf">Rotationsplan</a></li>
     </ul>

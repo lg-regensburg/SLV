@@ -6,14 +6,14 @@
 
     <p style="font-weight: bold">Verantwortlich für den Inhalt der Webseite</p>
     <p> Anschrift:
-      <br /> Süddeutscher Leichtathletik-Verband
-      <br /> Bayerischer Leichtathletik-Verband
-      <br /> Otto-Fleck-Schneise 4
-      <br /> 60528 Frankfurt
-      <br /> Tel.: 069/6789211 bis 213
-      <br /> Fax: 069/679708
-      <br /> Internet: www.hlv.de
-      <br /> E-Mail: Info@HLV.de
+      <br /> Süddeutscher Leichtathletik - Verband
+      <br /> Bayerischer Leichtathletik-Verband e.V.
+      <br /> Georg-Brauchle-Ring 93
+      <br /> 80992 München
+      <br /> Tel.: 089 / 157 02-378
+      <br /> Fax: 089 / 157 02-380
+      <br /> Internet: <a href="http://www.blv-sport.de">www.blv-sport.de</a>, <a href="http://www.leichtathletik-bayern.de">www.leichtathletik-bayern.de</a>
+      <br /> E-Mail: info[at]blv-sport.de
       <br />
       <br /> Veröffentlichung, Speicherung und Weiterverwendung des Materials dieser Homepage nur mit ausdrücklicher Genehmigung des Süddeutschen Leichtatheltik-Verbandes. Die Redaktion übernimmt keine Haftung oder Gewähr für die Richtigkeit der veröffentlichten Artikel, Ergebnisse, Statistiken und Informationen, insbesondere wenn diese von dritter Seite stammen, sowie für unverlangt eingesandtes Bild- und Textmaterial. Namentlich gekennzeichnete Artikel müssen nicht unbedingt mit der Meinung der Redaktion übereinstimmen. Die Seiten werden nach besten Kräften regelmäßig aktualisiert, allerdings kann die Redaktion - insbesondere infolge höherer Gewalt - keine Gewähr dafür übernehmen.
       <br/>
