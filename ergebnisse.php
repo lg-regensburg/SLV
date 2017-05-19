@@ -81,6 +81,14 @@
       <br />
     </p>
 
+		<p>
+      <strong>SDM Halle Gehen</strong>
+    </p>
+    <p>
+      <a target="_blank" href="http://www.roi24.net/1/media/2017/170218e-gehen.pdf">2017 in Kaiserslautern</a>
+      <br />
+    </p>
+
     <p>
       <strong>SDM Gehen</strong>
     </p>

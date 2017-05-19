@@ -28,17 +28,18 @@ $mA = $menu['active'];
 <![endif]-->
 
 </head>
-<body onload="bildwechsel('');">
+<body>
+<!-- <body onload="bildwechsel('');">
   <div class="banner_skyscraper" id="sponsoren1">
     <a href="" target="_blank" id="imagelink">
       <img src="images/blank.gif" border="0" name="sponsoren1" height="600" width="176"/>
     </a>
   </div>
-  <!-- <div class="banner_skyscraper">
-    <a href="http://www.meine-bank-bayern.de" target="_blank" title="Volksbanken Raiffeisenbanken">
+  <!-- <div class="banner_skyscraper"> -->
+    <!-- <a href="http://www.meine-bank-bayern.de" target="_blank" title="Volksbanken Raiffeisenbanken">
       <img src="/images/banner/VR-Banner-hoch.png" alt="Volksbanken Raiffeisenbanken" height="600" width="176">
             </a>
-  </div> -->
+  </div> --> -->
 
 <div id="page_margins">
 	<div id="page">
@@ -78,19 +79,15 @@ $mA = $menu['active'];
 		<!-- begin: content area #main -->
 		<div id="main">
 			<!-- begin: #col1 - first float column -->
-			<div id="col1">
+			<!-- <div id="col1">
           <div id="col1_content" class="clearfix">
             <br>
             <a href="http://www.meine-bank-bayern.de" target="_blank" title="Volksbanken Raiffeisenbanken">
             <img src="images/banner/VR-Banner.png" width="90" alt="Volksbanken Raiffeisenbanken" />
           </a>
           </div>
-<!--
 <iframe name="sponsoren" width="190" height="400" frameborder="0" src="sponsoren/iframe.html" scrolling="no"></iframe>
--->
-
-
-			  </div>
+			  </div> -->
 			</div>
 			<!-- end: #col1 -->
 			<!-- begin: #col2 second float column -->
