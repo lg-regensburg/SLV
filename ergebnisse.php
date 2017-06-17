@@ -16,6 +16,15 @@
     </p>
 
     <p>
+      <a  href="download/2017_Ergebnisliste_Hindernismeisterschaften.pdf
+" target="_blank">2017 in Regensburg</a><br>
+    </p>
+
+    <p>
+      <strong>SDM Aktive/ U18</strong>
+    </p>
+
+    <p>
       <a  href="http://www.wlv-sport.de/live/2016SLVHeilbronn/
 " target="_blank">2016 in Heilbronn</a><br>
       <a target="_blank" href="http://ladv.de/ergebnis/datei/24012">2015 in Kaiserslautern</a>
