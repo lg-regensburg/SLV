@@ -3,6 +3,19 @@
  $menu['current'] = 'home'; ?>
   <?php require '_header.inc.php'; ?>
 
+  <p><strong>Ausschreibung Süddeutsche Mehrkampf-Meisterschaften Senioren in Nieder-Olm</strong></p>
+
+  <p>Die Ausschreibung der Süddeutschen Mehrkampf-Meisterschaften Senioren in Nieder-Olm ist <a href="http://www.lvrheinhessen.de/html/Termine-2017/Ausschreibungen%202017/170923%20SLV%20SenMK.pdf">hier</a> verfügbar.</p>
+
+  <p><strong>Live-Ergebnisse der Süddentschen Meisterschaften Aktive/U18</strong></p>
+
+  <p>Die Live-Ergebnisse der Süddeutschen Meisterschaften Aktive/U18 in Wetzlar sind <a href="http://www.hlv.de/ergebnisse/live/">hier</a> verfügbar.</p>
+
+  <p><strong>Ergebnisse der Süddeutschen Meisterschaften im Straßengehen sind online</strong></p>
+
+  <p>Die Ergebnisse der Süddeutschen Meisterschaften im Straßengehen sind <a  href="download/2017_SDM-Gehen.htm
+  " target="_blank">hier</a> verfügbar</p>
+
   <p>
     <strong>Veranstaltungshinweis</strong>
   </p>
@@ -10,7 +23,7 @@
   </p>
   <p><a href="http://www.leichtathletik-bildungstag.de/" target="_blank">Hier</a> geht´s zu den Seiten des Bildungstages ...</p>
 
-  <p><strong>Ergebnisse der Süddeutschen 10.000m Meisterschaften sind online</strong></p>
+  <p><strong>Ergebnisse der Süddeutschen Hindernismeisterschaften sind online</strong></p>
 
   <p>Die Ergebnisse der Süddeutschen Hindernismeisterschaften sind <a  href="download/2017_Ergebnisliste_Hindernismeisterschaften.pdf
   " target="_blank">hier</a> verfügbar</p>

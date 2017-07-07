@@ -63,9 +63,9 @@
               <strong>Schatzmeister</strong>
             </p>
             <p>Paul Paszyna</p>
-            <p>Bleichgraben 7 d, </p>
-            <p> 67269 Grünstadt</p>
-            <p>Fon: 06359/872763 </p>
+            <p>Bgm.-Wingerter-Str. 12-14</p>
+            <p>67245 Lambsheim</p>
+            <p>Tel.: 0173-8837663</p>
             <p>Mail: paul.paszyna (at) slv-leichtathletik.de
               <p>
           </td>

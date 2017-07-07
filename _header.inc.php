@@ -39,7 +39,7 @@ $mA = $menu['active'];
     <!-- <a href="http://www.meine-bank-bayern.de" target="_blank" title="Volksbanken Raiffeisenbanken">
       <img src="/images/banner/VR-Banner-hoch.png" alt="Volksbanken Raiffeisenbanken" height="600" width="176">
             </a>
-  </div> --> -->
+  </div> -->
 
 <div id="page_margins">
 	<div id="page">
