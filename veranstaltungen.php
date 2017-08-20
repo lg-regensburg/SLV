@@ -16,6 +16,8 @@
 
     <p>29./30. Juli 2017 Süddeutsche Meisterschaften Junioren U23 und Jugend U16, Staffel Jugend U18 (<a href="http://slv-leichtathletik.de/download/Ausschreibung_SDM_U23U16_2017.pdf" target="_blank">Ausschreibung</a>)</p>
 
+    <p>2. September 2017 Süddeutsche Meisterschaften Bahngehen (<a target="_blank" href="download/Ausschreibung_SDM_Gehen_2017.pdf">Ausschreibung</a>)</p>
+
     <p>23. September 2017 Süddeutsche Mehrkampf-Meisterschaften Senioren (<a href="http://www.lvrheinhessen.de/html/Termine-2017/Ausschreibungen%202017/170923%20SLV%20SenMK.pdf" target="_blank">Ausschreibung</a>)</p>
 
     <p></p>

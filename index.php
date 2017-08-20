@@ -3,13 +3,25 @@
  $menu['current'] = 'home'; ?>
   <?php require '_header.inc.php'; ?>
 
+  <p><strong>Ausschreibung Süddeutsche Meisterschaften Gehen</strong></p>
+
+  <p>Die Ausschreibung der Süddeutschen Meisterschaften im Bahngehen sind <a target="_blank" href="download/Ausschreibung_SDM_Gehen_2017.pdf">hier</a> verfügbar.</p>
+
+  <p><strong>Teilnehmerlisten und Live-Ergenbnisse der Süddeutschen Meisterschaften in Ingolstadt</strong></p>
+
+  <p>Teilnehmerlisten und Live-Ergebnisse finden Sie <a target="_blank" href="http://lalive.de/index.php?ver=170729DEING">hier</a>.</p>
+
+  <p><strong>Süddeutsche Meisterschaften in Ingolstadt</strong></p>
+
+  <p>Alles Infos zu den Süddeutschen U23/ U16 Meisterschaften in Ingolstadt finden Sie <a target="_blank" href="http://blv-meisterschaften.de/IN_SD-MS/">hier</a>.</p>
+
   <p><strong>Ausschreibung Süddeutsche Mehrkampf-Meisterschaften Senioren in Nieder-Olm</strong></p>
 
-  <p>Die Ausschreibung der Süddeutschen Mehrkampf-Meisterschaften Senioren in Nieder-Olm ist <a href="http://www.lvrheinhessen.de/html/Termine-2017/Ausschreibungen%202017/170923%20SLV%20SenMK.pdf">hier</a> verfügbar.</p>
+  <p>Die Ausschreibung der Süddeutschen Mehrkampf-Meisterschaften Senioren in Nieder-Olm ist <a target="_blank" href="http://www.lvrheinhessen.de/html/Termine-2017/Ausschreibungen%202017/170923%20SLV%20SenMK.pdf">hier</a> verfügbar.</p>
 
   <p><strong>Live-Ergebnisse der Süddentschen Meisterschaften Aktive/U18</strong></p>
 
-  <p>Die Live-Ergebnisse der Süddeutschen Meisterschaften Aktive/U18 in Wetzlar sind <a href="http://www.hlv.de/ergebnisse/live/">hier</a> verfügbar.</p>
+  <p>Die Live-Ergebnisse der Süddeutschen Meisterschaften Aktive/U18 in Wetzlar sind <a target="_blank" href="http://www.hlv.de/ergebnisse/live/">hier</a> verfügbar.</p>
 
   <p><strong>Ergebnisse der Süddeutschen Meisterschaften im Straßengehen sind online</strong></p>
 
