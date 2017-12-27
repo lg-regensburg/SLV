@@ -10,21 +10,9 @@
       <tr>
         <td valign="top" style="width: 315px; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
           <p>
-            <strong>Präsident</strong>
+		Die Position des Präsidenten wird in Vertretung durch die Vizepräsidenten ausgeübt.
           </p>
-          <p>
-            Jochen Schweitzer (BLV) </p>
-          <p>
-            Geislinger Str. 12A</p>
-          <p>
-            85435 Erding</p>
-          <p>
-            Fon: 08122-8683790</p>
-          <p>
-            Mobil: 0175-4122728</p>
-          <p>
-            Mail: jochen.schweitzer (at) slv-leichtathletik.de </p>
-        </td>
+	</td>
         <td valign="top" style="width: 318px; border: 1.0pt solid windowtext; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm">
           <p>
             <strong>Vizepräsident</strong>
