@@ -6,20 +6,13 @@
     <h2>Veranstaltungen - Termine und Ausschreibungen</h2>
     <br />
     <br />
-    <p>25. März 2017 Süddeutsche Meisterschaften 10.000m in Regensburg (<a href="http://www.lg-telis-finanz.de/2017_ausschreibung/03-25_blv-10000m.pdf" target="_blank">Ausschreibung</a>)</p>
 
-    <p>10. Juni 2017 Süddeutsche Hindernis-Meisterschaften  in Regensburg (<a href="download/Ausschreibung_SDM_Hindernis_2017.pdf" target="_blank">Ausschreibung</a>)</p>
-
-    <p>17. Juni 2017 Süddeutsche Meisterschaften Straßengehen in Breitenbrunn (<a href="downloads/Ausschreibung_SDM_Strassengehen_2017.pdf" target="_blank">Ausschreibung</a>)</p>
-
-    <p>1./2. Juli 2017 Süddeutsche Meisterschaften Aktive und Jugend U18 (<a href="http://hlv.de/TERMINE/AUSSCHREIBUNGEN/2017/Ausschreibung_SDM_2017.pdf" target="_blank">Ausschreibung</a>)</p>
-
-    <p>29./30. Juli 2017 Süddeutsche Meisterschaften Junioren U23 und Jugend U16, Staffel Jugend U18 (<a href="http://slv-leichtathletik.de/download/Ausschreibung_SDM_U23U16_2017.pdf" target="_blank">Ausschreibung</a>)</p>
-
-    <p>2. September 2017 Süddeutsche Meisterschaften Bahngehen (<a target="_blank" href="download/Ausschreibung_SDM_Gehen_2017.pdf">Ausschreibung</a>)</p>
-
-    <p>23. September 2017 Süddeutsche Mehrkampf-Meisterschaften Senioren (<a href="http://www.lvrheinhessen.de/html/Termine-2017/Ausschreibungen%202017/170923%20SLV%20SenMK.pdf" target="_blank">Ausschreibung</a>)</p>
-
+    <p>10./11.02.2018 SLV-Hallenmeisterschaften Aktive/ U18 in Sindelfingen(WÜ) (<a target="_blank" href="download/Ausschreibung_SLV_Aktive-U18_2018.pdf">Ausschreibung</a>)</p>
+    <p>17.03.2018 SLV-10.000m Meisterschaften (Bahn) in Regensburg (BY)</p>
+    <p>02.06.2018 SLV-Hindernismeisterschaften im Rahmen der Laufnacht in Regensburg(BY)</p>
+    <p>23./24.06.2018 SLV- Meisterschaften Aktive/ U18 in Erding (BY)</p>
+    <p>04./05.08.2018 SLV-Meisterschaften U23/ U16 in Walldorf (BA)</p>
+    <p>22.09.2018 SLV-Seniorenmeisterschaften Nieder Olm (RH)</p>
     <p></p>
     <p></p>
 

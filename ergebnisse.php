@@ -25,8 +25,8 @@
     </p>
 
     <p>
-      <a  href="http://www.wlv-sport.de/live/2016SLVHeilbronn/
-" target="_blank">2016 in Heilbronn</a><br>
+      <a  href="http://www.hlv.de/ergebnisse/live/" target="_blank">2017 in Wetzlar</a><br>
+      <a  href="http://www.wlv-sport.de/live/2016SLVHeilbronn/" target="_blank">2016 in Heilbronn</a><br>
       <a target="_blank" href="http://ladv.de/ergebnis/datei/24012">2015 in Kaiserslautern</a>
       <br />
       <a href="http://lg-telis-finanz.de/2014_sueddeutsche/ergebnisse.php">2014 in Regensburg</a>
@@ -42,6 +42,8 @@
     </p>
 
     <p>
+      <a target="_blank" href="http://blv-meisterschaften.de/IN_SD-MS/">2017 in Ingolstadt</a>
+      <br />
       <a target="_blank" href="http://www.slb-saarland.com/fileadmin/user_upload/ergebnisse/2016/sdm/20160716stwendel.htm">2016 in St. Wendel</a>
       <br />
       <a target="_blank" href="http://www.hlv-region-nord.de/Ergebnisse/SDVKS2015.htm">2015 in Kassel</a>
@@ -58,7 +60,7 @@
       <strong>SDHM Aktive/ U18</strong>
     </p>
     <p>
-      <a target="_blank" href="http://www.hlv.de/ergebnisse/live/day1.htm">2017 in Frankfurt</a>
+      <a target="_blank" href="http://www.hlv.de/ERGEBNISSE/2017/20170204E.HTML">2017 in Frankfurt</a>
       <br />
       <a target="_blank" href="http://www.wlv-sport.de/live/2016SLVHalle/">2016 in Sindelfingen</a>
       <br />
@@ -111,6 +113,15 @@
       <a href="http://www.blv-sport.de/fileadmin/wettkampfsport/2014/erg/0712_blv-strassengehen.pdf">2014 in Niederaichbach</a>
       <br />
       <a href="http://ladv.de/ergebnis/datei/12423">2013 in Breitenbrunn</a>
+      <br />
+    </p>
+
+
+    <p>
+      <strong>SDM Bahngehen</strong>
+    </p>
+    <p>
+      <a target="_blank" href="download/2017-Ergebnisliste-SDM-Bahngehen.pdf">2017 in Groß-Gerau</a>
       <br />
     </p>
 
